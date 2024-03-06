@@ -1,2 +1,2 @@
-JavaScript: (function() { window.location.href = "https://fluxteam.net/android/checkpoint/check1.php"; })();
-JavaScript: (function() { window.location.href = "https://fluxteam.net/android/checkpoint/main.php"; })();
+193.84.88.132 keysystem.fluxteam.net
+193.84.88.132 fluxteam.net
